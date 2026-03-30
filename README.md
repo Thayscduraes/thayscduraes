@@ -1,4 +1,14 @@
-## Hi there 👋
+# Olá, eu sou a Thays 👋
+
+🎓 Estudante de ADS  
+💻 Aprendendo C# e desenvolvimento web  
+🚀 Buscando minha primeira oportunidade na área de tecnologia  
+
+## Tecnologias
+- C#
+- HTML
+- CSS
+- Git e GitHub
 
 <!--
 **Thayscduraes/thayscduraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
