@@ -1,6 +1,7 @@
 # Olá, eu sou a Thays 👋
 
 🎓 Estudante de ADS - PUC Betim
+
 💻 Aprendendo C# e desenvolvimento web  
 🚀 Buscando minha primeira oportunidade na área de tecnologia  
 
